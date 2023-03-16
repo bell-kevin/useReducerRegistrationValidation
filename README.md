@@ -12,7 +12,7 @@ Add a header on each page that specifies this is the project that uses the useRe
 
 ![reducer-3.PNG](https://github.com/bell-kevin/useReducerRegistrationValidation/blob/main/readMeExamplePictures/reducer-3.PNG)     ![reducer-4.PNG](https://github.com/bell-kevin/useReducerRegistrationValidation/blob/main/readMeExamplePictures/reducer-4.PNG)
 
-![reducer-5.PNG}(https://github.com/bell-kevin/useReducerRegistrationValidation/blob/main/readMeExamplePictures/reducer-5.PNG)
+![reducer-5.PNG](https://github.com/bell-kevin/useReducerRegistrationValidation/blob/main/readMeExamplePictures/reducer-5.PNG)
 
 You don't need to take screenshots of the alerts after pressing the Yes or No buttons on the validation page.
 
@@ -29,6 +29,8 @@ Submission: Zip together the root folder and the 5 screenshots, and submit the s
 ![p](https://github.com/bell-kevin/useReducerRegistrationValidation/blob/main/screenshots/4.PNG)
 
 ![p](https://github.com/bell-kevin/useReducerRegistrationValidation/blob/main/screenshots/5.PNG)
+
+I got 85/100 on this assignment with the comment: "You could have put the useReducer in the userContext.js file. Then you would not have had to put the reducer code in all of the screen files." There's always something to improve!
 
 ## How to:
 
