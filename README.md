@@ -20,15 +20,15 @@ Take 5 screenshots, as shown above.
 
 Submission: Zip together the root folder and the 5 screenshots, and submit the single zipped folder.
 
-![p]()
+![p](https://github.com/bell-kevin/useReducerRegistrationValidation/blob/main/screenshots/1.PNG)
 
-![p]()
+![p](https://github.com/bell-kevin/useReducerRegistrationValidation/blob/main/screenshots/2.PNG)
 
-![p]()
+![p](https://github.com/bell-kevin/useReducerRegistrationValidation/blob/main/screenshots/3.PNG)
 
-![p]()
+![p](https://github.com/bell-kevin/useReducerRegistrationValidation/blob/main/screenshots/4.PNG)
 
-![p]()
+![p](https://github.com/bell-kevin/useReducerRegistrationValidation/blob/main/screenshots/5.PNG)
 
 ## How to:
 
