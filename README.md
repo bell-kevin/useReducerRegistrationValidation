@@ -1,4 +1,4 @@
-# Registration Input and Validation with useReducer and useContext
+# Registration Input & Validation with useReducer & useContext
 
 You worked on a project for registration input and validation at the end of Section 7. In that project, you used the useContext and useState hooks. In this project, you will use the useReducer hook instead of useState. You should end up with the same 7 screenshots as in the previous project, but the state of the variables will be handled differently in this project.
 
