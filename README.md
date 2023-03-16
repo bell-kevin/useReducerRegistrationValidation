@@ -8,17 +8,27 @@ Where is state managed in that previous project? You should have the description
 
 Add a header on each page that specifies this is the project that uses the useReducer hook. Here are examples:
 
-reducer-1.PNG     reducer-2.PNG
+![reducer-1.PNG](https://github.com/bell-kevin/useReducerRegistrationValidation/blob/main/readMeExamplePictures/reducer-1.PNG)     ![reducer-2.PNG](https://github.com/bell-kevin/useReducerRegistrationValidation/blob/main/readMeExamplePictures/reducer-2.PNG)
 
-reducer-3.PNG     reducer-4.PNG
+![reducer-3.PNG](https://github.com/bell-kevin/useReducerRegistrationValidation/blob/main/readMeExamplePictures/reducer-3.PNG)     ![reducer-4.PNG](https://github.com/bell-kevin/useReducerRegistrationValidation/blob/main/readMeExamplePictures/reducer-4.PNG)
 
-reducer-5.PNG
+![reducer-5.PNG}(https://github.com/bell-kevin/useReducerRegistrationValidation/blob/main/readMeExamplePictures/reducer-5.PNG)
 
 You don't need to take screenshots of the alerts after pressing the Yes or No buttons on the validation page.
 
 Take 5 screenshots, as shown above.
 
 Submission: Zip together the root folder and the 5 screenshots, and submit the single zipped folder.
+
+![p]()
+
+![p]()
+
+![p]()
+
+![p]()
+
+![p]()
 
 ## How to:
 
